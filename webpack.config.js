@@ -34,7 +34,7 @@ const config = {
 			{
 				host: 'localhost',
 				port: '3791',
-				proxy: 'https://workflow-wpengine.lndo.site/'
+				proxy: 'https://workflow.lndo.site/'
 			}
 		),
 		new MiniCssExtractPlugin(
